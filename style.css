@@ -1,0 +1,132 @@
+body{
+    background-color:#000000;
+  }
+  div.scrollmenu {
+    background-color: #000;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  div.scrollmenu a:hover {
+    background-color: #000;
+  }
+  .Alpha{
+    position:relative;
+    left: 500px;
+    top: -80px;
+    font-family:"courier";
+    color:#000;
+    font-size:45px;
+  }
+  span{
+      background-color:#fff;
+  }
+  .Beta{
+    color:#fff;
+    
+    background-color:#fff;
+  }
+  .Items{
+    font-family:"Trebuchet MS";
+    position:relative;
+    top:-550px;
+    font-size:25px;
+    left:465px;
+    color:#000;
+  }
+  .logo{
+    position:relative;
+    top:80px;
+    left:100px;
+  }
+  .more{
+    text-align:center;
+    position:relative;
+    top:100px;
+    left:-100px;
+    background-color:#000;
+    color:#fff;
+    font-family:"Trebuchet MS";
+  }
+  .img1{
+   position:relative;
+    left:425px;
+    top:100px;
+  }
+  .img2{
+   position:relative;
+    top:-100px;
+    left:200px;
+  }
+  .img3{
+    position:relative;
+    top:-277px;
+    left:-90px;
+  }
+  .trendstitle{
+    border-width:8px;
+    border-style:solid;
+    border-color:#fff;
+    text-align:center;
+    background-color:#000;
+    color:#fff;
+    font-family:"Trebuchet MS";
+  }
+  .trends{
+    position:relative;
+    top:-700px;
+    background-color:#000;
+  }
+  .rank1{
+    position:relative;
+    top:-900px;
+    font-size:35px;
+    left:500px;
+    color:#fff;
+  }
+  .A{
+    background-color:#000;
+    color:#FFD700;
+  }
+  .rank2{
+    background-color:#000;
+    position:relative;
+    top:-1050px;
+    font-size:35px;
+    left:500px;
+    color:#fff;
+  }
+  .B{
+    background-color:#000;
+    color:#C0C0C0;
+  }
+  .poster{
+    background-color:#000;
+    position:relative;
+    top:-850px;
+  }
+  .poster2{
+    background-color:#000;
+    position:relative;
+    top:-995px;
+  }
+  .rank3{
+    background-color:#000;
+    position:relative;
+    top:-1150px;
+    font-size:35px;
+    left:490px;
+    color:#fff;
+  }
+  .C{
+    background-color:#000;
+    color:#CD7F32;
+  }  
